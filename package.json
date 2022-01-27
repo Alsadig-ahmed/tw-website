@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tw-dev": "tailwind -i src/tailwind.postcss -o public/style.css -w",
-    "tw-build": "tailwind -i src/tailwind.postcss -o public/style.min.css -m"
+    "tw-dev": "tailwind -i src/tailwind.postcss -o css/style.css -w",
+    "tw-build": "tailwind -i src/tailwind.postcss -o css/style.min.css -m"
   },
   "author": "",
   "license": "ISC"
